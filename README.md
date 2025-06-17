@@ -133,4 +133,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  16.06.2025 link is accessible again
+
+
+Update: url is now live and reachable
